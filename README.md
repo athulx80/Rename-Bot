@@ -31,8 +31,8 @@ status - Show Users Count in DB. (Admin Only)
 ## Deploy to Heroku
 Easy to Deploy to Heroku.
 
-### Video Tutorial:
-[![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/edcOa_cZWg4)
+### FOLLOW ON GITHUB
+[![Join](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/athulx80)
 
 
 Press Below Button to Deploy!
@@ -44,14 +44,14 @@ Press Below Button to Deploy!
 
 ### Follow on:
 <p align="left">
-<a href="https://github.com/athulx80"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
+<a href="https://github.com/athulx80"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 <p align="left">
 <a href="https://wa.me/+917012788681"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 <p align="left">
-<a href="https://t.me/athulx80"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=telegram"></a>
+<a href="https://t.me/athulx80"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 </p>
 <p align="left">
-<a href="https://instagram.com/_athul.x"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+<a href="https://instagram.com/_athul.x"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
