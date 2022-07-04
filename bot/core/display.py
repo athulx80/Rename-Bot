@@ -9,11 +9,11 @@ from pyrogram.types import Message, CallbackQuery
 from pyrogram.errors import FloodWait
 
 PROGRESS = """
-⏳ **Percentage:** `{0}%`
-✅ **Done:** `{1}`
-💠 **Total:** `{2}`
-📶 **Speed:** `{3}/s`
-🕰 **ETA:** `{4}`
+⏳ **𝙿𝙴𝚁𝙲𝙴𝙽𝚃𝙰𝙶𝙴:** `{0}%`
+✅ **𝙳𝙾𝙽𝙴:** `{1}`
+💠 **𝚃𝙾𝚃𝙰𝙻:** `{2}`
+🚀 **𝚂𝙿𝙴𝙴𝙳:** `{3}/s`
+⏱️ **𝙴𝚃𝙰:** `{4}`
 """
 
 
