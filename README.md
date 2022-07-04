@@ -1,5 +1,5 @@
 # Rename-Bot
-This is a very simple Telegram Files Rename Bot by [@AbirHasan2005](https://t.me/AbirHasan2005).
+This is a very simple Telegram Files Rename Bot by [Athul](https://t.me/athulx80).
 
 ## Features
 - Rename Videos, Documents or Audios without downloading the file.
@@ -25,8 +25,8 @@ broadcast - Broadcast Message. (Admin Only)
 status - Show Users Count in DB. (Admin Only)
 ```
 
-### Join Channal
-<a href="https://t.me/+jG8skQAT68I5MmRl"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
+### Join Group 
+<a href="https://t.me/Movies_Empire_Group"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
 ## Deploy to Heroku
 Easy to Deploy to Heroku.
@@ -39,15 +39,15 @@ Press Below Button to Deploy!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/athulx80/Rename-Bot)
 
-#### Thanks to [Me](https://github.com/athulx80) for helping
-#### Inspired from [@HK_Rename_Bot](https://t.me/HK_Rename_Bot) & [@AHToolsBot](https://t.me/AHToolsBot)
+#### Thanks to [𝐀𝐓𝐇𝐔𝐋](https://github.com/athulx80) for helping
+#### Join Channels [𝐌𝐎𝐕𝐈𝐄𝐒 𝐄𝐌𝐏𝐈𝐑𝐄 (official)](https://t.me/+jG8skQAT68I5MmRl) & [𝐌𝐎𝐕𝐈𝐄𝐒 𝐄𝐌𝐏𝐈𝐑𝐄 (sub)](https://t.me/Movies_Empire_Sub)
 
 ### Follow on:
 <p align="left">
 <a href="https://github.com/athulx80"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
-<a href="https://twitter.com/AbirHasan2005"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
+<a href="https://wa.me/+917012788681"><img src="https://img.shields.io/badge/Whatsapp%20-Follow%20On%20Whatsapp%20-green"></a>
 </p>
 <p align="left">
 <a href="https://t.me/athulx80"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=telegram"></a>
