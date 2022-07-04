@@ -39,7 +39,7 @@ Press Below Button to Deploy!
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/athulx80/Rename-Bot)
 
-#### Thanks to [𝐀𝐓𝐇𝐔𝐋](https://github.com/athulx80) for helping
+#### Thanks to Me
 #### Join Channels [𝐌𝐎𝐕𝐈𝐄𝐒 𝐄𝐌𝐏𝐈𝐑𝐄 (official)](https://t.me/+jG8skQAT68I5MmRl) & [𝐌𝐎𝐕𝐈𝐄𝐒 𝐄𝐌𝐏𝐈𝐑𝐄 (sub)](https://t.me/Movies_Empire_Sub)
 
 ### Follow on:
@@ -47,7 +47,7 @@ Press Below Button to Deploy!
 <a href="https://github.com/athulx80"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
 </p>
 <p align="left">
-<a href="https://wa.me/+917012788681"><img src="https://img.shields.io/badge/Whatsapp%20-Follow%20On%20Whatsapp%20-green"></a>
+<a href="https://wa.me/+917012788681"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </p>
 <p align="left">
 <a href="https://t.me/athulx80"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=telegram"></a>
